@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cigarette-client.vercel.app/">Website</a> ·
+  <a href="https://cigaretteclient.vercel.app/">Website</a> ·
   <a href="https://github.com/darbom-yt/Cigarette-Client/releases/latest/download/cigaretteclient.jar">Download</a> ·
   <a href="https://discord.gg/gszYudvVuY">Discord</a>
 </p>
@@ -133,7 +133,7 @@ Middle-click any module to assign or change its keybind.
 
 ## Installation
 
-1. Download the latest version from the [official website](https://cigarette-client.vercel.app/) or the [Releases](../../releases) page.
+1. Download the latest version from the [official website](https://cigaretteclient.vercel.app/) or the [Releases](../../releases) page.
 2. Install the client using the appropriate Minecraft/Fabric installation setup.
 3. Launch **Minecraft Java Edition 1.21.11**.
 4. Open the client menu using **RightShift**.
